@@ -1,3 +1,12 @@
+Metadata-Version: 2.4
+Name: py-datacuration
+Version: 1.3.0
+Summary: A package for managing datasets with commonly used tool.
+Project-URL: Homepage, https://github.com/kuhlaid
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # The py-datacuration package
 
 This package contains data curation tools and functions most commonly used.
