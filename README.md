@@ -1,4 +1,4 @@
-# The py-datacuration package
+# The py_datacuration package
 
 This package contains data curation tools and functions most commonly used.
 
@@ -16,4 +16,4 @@ Anyone wishing to make use of the `BinderReadme` notebook needs to install this 
 
 ## Cloning the package
 
-`git clone --config core.autocrlf=false https://github.com/kuhlaid/py-datacuration.git`
+`git clone --config core.autocrlf=false https://github.com/kuhlaid/py_datacuration.git`

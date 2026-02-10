@@ -16,7 +16,7 @@ build-backend = "setuptools.build_meta"  # If not defined, then legacy behavior 
 
 [project]
 dynamic = ["version"]  # we only define within the setup.py
-name="py-datacuration"
+name="py_datacuration"
 description = "A package for managing datasets with commonly used tool."
 readme = "README.md"
 
